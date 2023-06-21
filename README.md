@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
+Après dix années à travailler dans le secteur culturel en tant que chargé de diffusion, j'ai décidé de me former pour devenir développeur web. Je suis désormais prêt à relever de nouveaux défis 🚀
 <!--
 **AlexMcFly33/AlexMcFly33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
